@@ -58,7 +58,7 @@ joblib
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/calliyigit/2025_security_final.git
    cd phishing-url-detection
    ```
 
@@ -173,10 +173,6 @@ The RandomForestClassifier is trained on a combination of legitimate and phishin
 3. Make your changes
 4. Add tests if applicable
 5. Submit a pull request
-
-## License
-
-[Add your license information here]
 
 ## Disclaimer
 
