@@ -33,7 +33,7 @@ phishing-url-detection/
 - **`phishing_dataset.csv`**: Combined dataset used for model training.
 - **`phishing_model.pkl`**: Serialized trained model file.
 
-## Data Sources
+## 📁 Data Sources
 
 ### Legitimate URLs
 - **Source**: [Kaggle - Majestic Million](https://www.kaggle.com/datasets/cheedcheed/top1m)
@@ -44,6 +44,10 @@ phishing-url-detection/
 - **Source**: [UCI Machine Learning Repository - Phishing URL Dataset](https://archive.ics.uci.edu/ml/datasets/Phishing+Websites)
 - **File**: `PhiUSIIL_Phishing_URL_Dataset.csv`
 - **Description**: Collection of known phishing URLs
+
+> ⚠️ **Note on Dataset Size**  
+> Due to GitHub's file size limitations, this repository includes **shortened versions** of both the legitimate and phishing URL datasets.  
+> To run the application with the **full datasets**, please download them manually from the links above and place them in the project directory.  
 
 ## Requirements
 
